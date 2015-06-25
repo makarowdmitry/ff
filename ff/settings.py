@@ -81,6 +81,18 @@ DATABASES = {
     }
 }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql', 
+#         'NAME': 'druzyamdrf',
+#         'USER': 'druzyamdrf',
+#         'PASSWORD': 'f5bR41uky',
+#         'HOST': 'VH229.spaceweb.ru',   # Or an IP Address that your DB is hosted on
+#         'PORT': '3306',
+#     }
+# }
+
+# VH229.spaceweb.ru basename -  ff user - druzyamdrf pass - f5bR41uky 
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
